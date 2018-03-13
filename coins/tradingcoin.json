@@ -1,0 +1,6 @@
+{
+    "name": "TradingCoin",
+    "symbol": "TDC",
+    "algorithm": "scrypt",
+"reward": "POS"
+}
